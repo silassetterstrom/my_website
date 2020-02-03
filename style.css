@@ -28,7 +28,7 @@ header li {
 }
 
 section {
-    height: 100vh;
+    height: 90vh;
     border: 1px solid black;
     display: flex;
     justify-content: center;
