@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    margin-top: 50px;
+    margin-top: 200px;
 }
 
 header {
@@ -9,38 +9,72 @@ header {
     top: 0;
     left: 0;
     right: 0;
-    height: 50px;
+    height: 200px;
     line-height: 50px;
-    background-color: #eee;
+    background-image: url(./background.jpg);
+    background-size: 100% 100%;
 }
 
 header * {
     display: inline;
-    height: 50px;
 }
 
 header ul {
     padding: 0;
+    float: right;
+    padding-right: 10px;
 }
 
 header li {
     margin-left: 20px;
 }
 
-section {
-    height: 90vh;
-    border: 1px solid black;
-    display: flex;
+#left {
     justify-content: center;
     align-items: center;
     text-align: center;
 }
 
-#hero .profile-img {
+#right {
+    margin-left: 5%;
+    margin-top: 3%;
+}
+
+.profile-img {
     width: 300px;
 }
 
-footer {
-    text-align: center;
-    padding: 50px;
+nav {
+    width: 100%;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+h1 {
+    color: white;
+    padding-left: 10px;
+}
+
+.name:hover {
+    text-decoration: underline;
+}
+
+#wrapper {
+    display: flex;
+}
+
+#left {
+    flex: 0 0 50%;
+    margin-top: 5%;
+}
+
+#right {
+    flex: 1;
 }
