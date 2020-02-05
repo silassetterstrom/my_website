@@ -1,0 +1,20 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima-{{ site.minima.skin | default: 'classic' }}";
+
+.profile-img {
+    width: 300px;
+}
+
+.logo-img {
+    height: 25px;
+    width: 25px;
+}
+
+#wrapper {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
