@@ -12,7 +12,7 @@ order: 4
 <p>-Led development on project with another intern to port an existing application for running JCL jobs onto AWS.<br>
     -Used an Amazon DynamoDB Stream to refactor and streamline the process of running a job and added a
      new feature to allow automatic chaining of jobs.<br>
-    -Modified an existing Java API to allow users access to error logs when a job fails.<br>
+    -Modified an existing API to allow users access to error logs when a job fails.<br>
     -Added a feature to email users when they need to take action on a job using an Amazon SES template.<br>
     -Re-designed website front-end using Vuetify to utilize a component library to make future feature
      development faster and make the user experience consistent.<br>
