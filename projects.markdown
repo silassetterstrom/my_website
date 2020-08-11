@@ -17,7 +17,7 @@ order: 4
 <h3><a href="https://github.com/silassetterstrom/24">24</a></h3>
 <p>Personal project, Spring 2020</p>
 <p>Created a command line tool using Python to determine whether a set of 4 numbers can be added, subtracted, multiplied, and divided to reach the number 24, and return a solution, if there is one. 24 was one of my favorite games to play in school when I was a kid, so this really gave me a kick!<br></p> 
-<h3><a href="https://github.com/egabrielse/SimplyRun">24</a>SimplyRun</h3>
+<h3><a href="https://github.com/egabrielse/SimplyRun">SimplyRun</a></h3>
 <p>Semester Project for Software Engineering Course, Spring 2020</p>
 <p>Developed a mobile application using React Native to track all the important statistics for a user’s run without the unnecessary extras or ads of most mainstream fitness tracking applications. There were 6 members on the team, and I spent most of my time working on the displaying and updating of a user's profile and settings.<br></p>     
 <h3>MJCL Web Application</h3>
